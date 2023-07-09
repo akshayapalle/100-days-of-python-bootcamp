@@ -10,3 +10,5 @@ Day 3 - Treasure Island
 Day 4 - Rock Paper Scissors 
 
 Day 5 - Password Generator
+
+Day 6 - Maze game
