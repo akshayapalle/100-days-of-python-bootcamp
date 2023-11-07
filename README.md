@@ -18,3 +18,5 @@ Day 7 - Hangman Game
 Day 8 - Ceaser Cipher
 
 Day 9 - Blind Auction
+
+Day 10 - Calculator
