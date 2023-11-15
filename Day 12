@@ -1,0 +1,6 @@
+#Scope and Number Guessing game
+#Local Scope
+#Global Scope
+#NameSpace
+#There is no such thing as "Block Scope" in python (if we create a variable within a function, then it is only available in only within that function, but if we create 
+# a variable within an "if" block or a "while-loop" or a "for-loop", then that does not count as creating a seperate local scope.
