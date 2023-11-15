@@ -4,3 +4,6 @@
 #NameSpace
 #There is no such thing as "Block Scope" in python (if we create a variable within a function, then it is only available in only within that function, but if we create 
 # a variable within an "if" block or a "while-loop" or a "for-loop", then that does not count as creating a seperate local scope.
+#Global scope is incredibly useful, especillay when defining constants.
+#Global constants are variables which you define you never planning or changing it ever again. Ex: value of pi = 3.14159
+#In order to differentiate these constants, the naming convention in python is turning into "uppercase" and sepearte with unerscores. Ex: URL, TWITTER_HANDLE, PI etc...
