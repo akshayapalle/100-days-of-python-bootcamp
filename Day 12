@@ -1,3 +1,4 @@
+************************************************Day 12 Topics *****************************************
 #Scope and Number Guessing game
 #Local Scope
 #Global Scope
@@ -8,6 +9,8 @@
 #Global constants are variables which you define you never planning or changing it ever again. Ex: value of pi = 3.14159
 #In order to differentiate these constants, the naming convention in python is turning into "uppercase" and sepearte with unerscores. Ex: URL, TWITTER_HANDLE, PI etc...
 
+**************************************************** Code starts from here *********************************
+********************************************** # Number Guessing Game **************************************
 from random import randint
 
 EASY_LEVEL_TURNS = 10
