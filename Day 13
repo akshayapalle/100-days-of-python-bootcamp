@@ -1,8 +1,12 @@
 ********************* DEBUGGING ************************
 ==> Tips and Techniques to identify and remove the bugs.
 1) Describe the problem
-2) Reproduce the bug 
+2) Reproduce the Bug 
 3) Play Computer
 4) Fix the Errors
-5) use print statements
-6) Use Debugger
+5) Use print statements
+6) Use a Debugger
+7) Take a break
+8) Ask your friend(preferably a developer)
+9) Run it after every little Execution
+
