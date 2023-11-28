@@ -26,3 +26,5 @@ Day 11 - Blackjack
 Day 12 - Number Guessing game
 
 Day 13 - Debugging
+
+Day 14 - The Higher Lower Game
