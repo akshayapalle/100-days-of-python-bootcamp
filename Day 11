@@ -1,4 +1,4 @@
-************** # Creating own clear() function for IDE **********************
+*************** # Creating own clear() function for IDE **********************
 import os  # Import the 'os' module
 
 def clear():
