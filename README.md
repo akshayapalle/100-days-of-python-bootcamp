@@ -28,3 +28,5 @@ Day 12 - Number Guessing game
 Day 13 - Debugging
 
 Day 14 - The Higher Lower Game
+
+Day 15 - Setup Local Development Environment & Coffee Machine Project
